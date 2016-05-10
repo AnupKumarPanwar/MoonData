@@ -1,0 +1,19 @@
+{
+  "name": "moon_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnupKumarPanwar/Book-it-to-the-Moon.git"
+  },
+  "author": "Anup Kumar Panwar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnupKumarPanwar/Book-it-to-the-Moon/issues"
+  },
+  "homepage": "https://github.com/AnupKumarPanwar/Book-it-to-the-Moon#readme"
+}
